@@ -1,0 +1,9 @@
+# virtual environments
+myenv/
+
+# Datasets
+Datasets/
+
+# scikit-learn
+scikit-learn/
+Reviews.csv
