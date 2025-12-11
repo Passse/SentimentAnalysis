@@ -5,5 +5,4 @@ myenv/
 Datasets/
 
 # scikit-learn
-scikit-learn/
-Reviews.csv
+scikit-learn/Reviews.csv
